@@ -14,7 +14,7 @@ public class FourSquare {
 			// 6. Change the color of the line the Tortoise draws to a random color 
 	
 			// 1. Call the drawSquare() method
-			
+			drawSquare();
 			// 7. Turn the tortoise 90 degrees to the right
 			
 	}
@@ -22,7 +22,7 @@ public class FourSquare {
 	/* 2. Fill in the code to draw a square inside the method below. */
 	static void drawSquare() {
 		JOptionPane.showMessageDialog(null, "yay! you called the drawSquare() method!");
-			
+		for(int i=0; i<4; i++);
 		
 	}
 }
